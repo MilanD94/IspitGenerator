@@ -1,0 +1,1844 @@
+﻿{
+  "Questions": [
+    {
+      "Id": 1,
+      "Text": "Termin „sociologija“ prvi je upotrebio:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Rajt Mils"
+        },
+        {
+          "Id": 2,
+          "Text": "Robert Merton"
+        },
+        {
+          "Id": 3,
+          "Text": "Ogist Kont"
+        },
+        {
+          "Id": 4,
+          "Text": "Mihailo Popović"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 2,
+      "Text": "Generičko objašnjenje odgovara na pitanje o:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "poreklu pojave"
+        },
+        {
+          "Id": 2,
+          "Text": "uzroku pojave"
+        },
+        {
+          "Id": 3,
+          "Text": "potrebama koje pojave zadovoljavaju"
+        },
+        {
+          "Id": 4,
+          "Text": "strukturi pojave"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 3,
+      "Text": "Uzročno objašnjenje odgovara na pitanje o:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "uzroku pojave"
+        },
+        {
+          "Id": 2,
+          "Text": "poreklu pojave"
+        },
+        {
+          "Id": 3,
+          "Text": "potrebama koje neka pojava zadovoljava"
+        },
+        {
+          "Id": 4,
+          "Text": "strukturi pojave"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 4,
+      "Text": "Funkcionalno objašnjenje odgovara na pitanje o:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "uzroku pojave"
+        },
+        {
+          "Id": 2,
+          "Text": "genezi pojave"
+        },
+        {
+          "Id": 3,
+          "Text": "potrebama koje neka pojava zadovoljava"
+        },
+        {
+          "Id": 4,
+          "Text": "strukturi pojave"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 5,
+      "Text": "Strukturalno objašnjenje odgovara na pitanje:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "koji elementi čine neku pojavu"
+        },
+        {
+          "Id": 2,
+          "Text": "o genezi pojave"
+        },
+        {
+          "Id": 3,
+          "Text": "o potrebama koje neka pojava zadovoljava"
+        },
+        {
+          "Id": 4,
+          "Text": "o strukturi pojave"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 6,
+      "Text": "Razumevanje je naučni postupak kojim se otkriva:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "funkcija pojave"
+        },
+        {
+          "Id": 2,
+          "Text": "struktura pojave"
+        },
+        {
+          "Id": 3,
+          "Text": "geneza pojave"
+        },
+        {
+          "Id": 4,
+          "Text": "značenje koje akteri pridaju svojim postupcima"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 7,
+      "Text": "Teorija je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "skup povezanih iskaza kojima se objašnjava neka pojava"
+        },
+        {
+          "Id": 2,
+          "Text": "naučni zakon"
+        },
+        {
+          "Id": 3,
+          "Text": "naučna hipoteza"
+        },
+        {
+          "Id": 4,
+          "Text": "vrsta eksperimenta"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 8,
+      "Text": "Skup iskaza kojima se objašnjava neka pojava naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društvena norma"
+        },
+        {
+          "Id": 2,
+          "Text": "teorija"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni položaj"
+        },
+        {
+          "Id": 4,
+          "Text": "društvena uloga"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 9,
+      "Text": "Metod je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "teorija jedne nauke"
+        },
+        {
+          "Id": 2,
+          "Text": "način proučavanja"
+        },
+        {
+          "Id": 3,
+          "Text": "verska sekta"
+        },
+        {
+          "Id": 4,
+          "Text": "društvena grupa"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 10,
+      "Text": "Kvalitativna metoda prednost daje:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "iskazima ispitanika"
+        },
+        {
+          "Id": 2,
+          "Text": "statističkim podacima"
+        },
+        {
+          "Id": 3,
+          "Text": "dokumentima"
+        },
+        {
+          "Id": 4,
+          "Text": "zvučnim izvorima"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 11,
+      "Text": "Grupa ljudi od kojih se traži obaveštenje naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "kontrolna grupa"
+        },
+        {
+          "Id": 2,
+          "Text": "uzorak"
+        },
+        {
+          "Id": 3,
+          "Text": "eksperimentalna grupa"
+        },
+        {
+          "Id": 4,
+          "Text": "radna grupa"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 12,
+      "Text": "Logička radnja kojom se jedna grupa pojava deli na vrste međusobno srodnih pojava zove se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "klasifikacija"
+        },
+        {
+          "Id": 2,
+          "Text": "merenje"
+        },
+        {
+          "Id": 3,
+          "Text": "sociometrija"
+        },
+        {
+          "Id": 4,
+          "Text": "analiza sadržaja"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 13,
+      "Text": "Na značaj razumevanja društvenog delanja ukazuje:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Maks Veber"
+        },
+        {
+          "Id": 2,
+          "Text": "Robert Merton"
+        },
+        {
+          "Id": 3,
+          "Text": "Ogist Kont"
+        },
+        {
+          "Id": 4,
+          "Text": "Karl Marks"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 14,
+      "Text": "Homo faber znači:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "svesno biće"
+        },
+        {
+          "Id": 2,
+          "Text": "proizvodno biće"
+        },
+        {
+          "Id": 3,
+          "Text": "porodično biće"
+        },
+        {
+          "Id": 4,
+          "Text": "emotivno biće"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 15,
+      "Text": "Ako se čovek definiše kao „zoon politicon“, on je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "politička životinja"
+        },
+        {
+          "Id": 2,
+          "Text": "emotivna životinja"
+        },
+        {
+          "Id": 3,
+          "Text": "proizvodno biće"
+        },
+        {
+          "Id": 4,
+          "Text": "biće sposobno za igru"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 16,
+      "Text": "Pravila o tome „kako bi trebalo da bude“ nazivaju se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "norme"
+        },
+        {
+          "Id": 2,
+          "Text": "vrednosti"
+        },
+        {
+          "Id": 3,
+          "Text": "društvene uloge"
+        },
+        {
+          "Id": 4,
+          "Text": "društveni položaji"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 17,
+      "Text": "Ideje prema kojima pojedinci i društva teže da osmisle svoj život nazivaju se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "norme"
+        },
+        {
+          "Id": 2,
+          "Text": "društvene uloge"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni položaj"
+        },
+        {
+          "Id": 4,
+          "Text": "vrednost"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 18,
+      "Text": "Skup međusobno povezanih vrednosti naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "vrednosni sistem"
+        },
+        {
+          "Id": 2,
+          "Text": "normativni sistem"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni sistem"
+        },
+        {
+          "Id": 4,
+          "Text": "zakonodavni sistem"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 19,
+      "Text": "Proces usvajanja kulture naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "socijalizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "nacionalizacija"
+        },
+        {
+          "Id": 3,
+          "Text": "demokratizacija"
+        },
+        {
+          "Id": 4,
+          "Text": "diferencijacija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 20,
+      "Text": "Funkcija je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni položaj"
+        },
+        {
+          "Id": 2,
+          "Text": "celina sastavljena od elemenata"
+        },
+        {
+          "Id": 3,
+          "Text": "društvena grupa čiji članovi imaju osećaj bliskosti"
+        },
+        {
+          "Id": 4,
+          "Text": "uloga koju element ima u sistemu"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 21,
+      "Text": "Društvo je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "manji ili veći broj ljudi na određenoj teritoriji"
+        },
+        {
+          "Id": 2,
+          "Text": "manji broj ljudi povezan duhovnim srodstvom"
+        },
+        {
+          "Id": 3,
+          "Text": "društvena grupa čije članove povezuje neki interes"
+        },
+        {
+          "Id": 4,
+          "Text": "manji broj ljudi povezan krvnim srodstvom"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 22,
+      "Text": "Promena slojnog položaja pojedinca u odnosu na roditelje naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "međugeneracijska pokretljivost"
+        },
+        {
+          "Id": 2,
+          "Text": "unutargeneracijska pokretljivost"
+        },
+        {
+          "Id": 3,
+          "Text": "evolucija"
+        },
+        {
+          "Id": 4,
+          "Text": "revolucija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 23,
+      "Text": "Promena slojnog položaja pojedinca u odnosu na njegov raniji položaj naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "unutargeneracijska pokretljivost"
+        },
+        {
+          "Id": 2,
+          "Text": "međugeneracijska pokretljivost"
+        },
+        {
+          "Id": 3,
+          "Text": "društvena stratifikacija"
+        },
+        {
+          "Id": 4,
+          "Text": "društvena reprodukcija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 24,
+      "Text": "Društvo u kome slojni položaj pojedinca zavisi od njegove sposobnosti naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "demokratija"
+        },
+        {
+          "Id": 2,
+          "Text": "meritokratsko društvo"
+        },
+        {
+          "Id": 3,
+          "Text": "autokratija"
+        },
+        {
+          "Id": 4,
+          "Text": "civilizacija"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 25,
+      "Text": "Prema Marksu, neprijateljski suprotstavljeni slojevi nazivaju se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "klase"
+        },
+        {
+          "Id": 2,
+          "Text": "kaste"
+        },
+        {
+          "Id": 3,
+          "Text": "elite"
+        },
+        {
+          "Id": 4,
+          "Text": "društvene grupe"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 26,
+      "Text": "Dva najpoznatija shvatanja birokratije formulisali su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Ogist Kont i Sen Simon"
+        },
+        {
+          "Id": 2,
+          "Text": "Emil Dirkem i Robert Merton"
+        },
+        {
+          "Id": 3,
+          "Text": "Entoni Gidens i Majkl Haralambos"
+        },
+        {
+          "Id": 4,
+          "Text": "Karl Marks i Maks Veber"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 27,
+      "Text": "Struka je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "zajednica ljudi iste profesije"
+        },
+        {
+          "Id": 2,
+          "Text": "skup istomišljenika"
+        },
+        {
+          "Id": 3,
+          "Text": "sinonim za društveni status"
+        },
+        {
+          "Id": 4,
+          "Text": "vrsta društvene promene"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 28,
+      "Text": "Društveni položaj je isto što i:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni prostor"
+        },
+        {
+          "Id": 2,
+          "Text": "društveno vreme"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni status"
+        },
+        {
+          "Id": 4,
+          "Text": "društvena uloga"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 29,
+      "Text": "Skup nepisanih propisa o očekivanom ponašanju pojedinca naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni položaj"
+        },
+        {
+          "Id": 2,
+          "Text": "društvena uloga"
+        },
+        {
+          "Id": 3,
+          "Text": "društvene vrednosti"
+        },
+        {
+          "Id": 4,
+          "Text": "društveni status"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 30,
+      "Text": "Društveni položaj koji je učinak ličnog postignuća naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "stečeni status"
+        },
+        {
+          "Id": 2,
+          "Text": "pripisani status"
+        },
+        {
+          "Id": 3,
+          "Text": "lični status"
+        },
+        {
+          "Id": 4,
+          "Text": "odbačeni status"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 31,
+      "Text": "Društveni položaj koji se dobija rođenjem naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "stečeni status"
+        },
+        {
+          "Id": 2,
+          "Text": "odbačeni status"
+        },
+        {
+          "Id": 3,
+          "Text": "lični status"
+        },
+        {
+          "Id": 4,
+          "Text": "pripisani status"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 32,
+      "Text": "Sposobnost postizanja dobrovoljne poslušnosti naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "moć"
+        },
+        {
+          "Id": 2,
+          "Text": "statusna grupa"
+        },
+        {
+          "Id": 3,
+          "Text": "statusni simbol"
+        },
+        {
+          "Id": 4,
+          "Text": "ugled"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 33,
+      "Text": "Najviša statusna grupa naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "elita"
+        },
+        {
+          "Id": 2,
+          "Text": "sloj"
+        },
+        {
+          "Id": 3,
+          "Text": "klasa"
+        },
+        {
+          "Id": 4,
+          "Text": "stalež"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 34,
+      "Text": "Osnivač teorije elite je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Vilfredo Pareto"
+        },
+        {
+          "Id": 2,
+          "Text": "Ogist Kont"
+        },
+        {
+          "Id": 3,
+          "Text": "Maks Veber"
+        },
+        {
+          "Id": 4,
+          "Text": "Emil Dirkem"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 35,
+      "Text": "Vladajuću elitu naziva političkom klasom:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Gaetano Moska"
+        },
+        {
+          "Id": 2,
+          "Text": "Vilfredo Paredo"
+        },
+        {
+          "Id": 3,
+          "Text": "Rajt Mils"
+        },
+        {
+          "Id": 4,
+          "Text": "Karl Marks"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 36,
+      "Text": "Niže klase kojima upravlja elita nazivaju se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "kaste"
+        },
+        {
+          "Id": 2,
+          "Text": "staleži"
+        },
+        {
+          "Id": 3,
+          "Text": "društvene grupe"
+        },
+        {
+          "Id": 4,
+          "Text": "masa"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 37,
+      "Text": "Rodonačelnik moderne ideje o društvenoj jednakosti je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Žan-Žak Ruso"
+        },
+        {
+          "Id": 2,
+          "Text": "Karl Marks"
+        },
+        {
+          "Id": 3,
+          "Text": "Fridrih Engels"
+        },
+        {
+          "Id": 4,
+          "Text": "Emil Dirkem"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 38,
+      "Text": "Neravnopravne mogućnosti muškaraca i žena nazivaju se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "seksualna revolucija"
+        },
+        {
+          "Id": 2,
+          "Text": "klasne nejednakosti"
+        },
+        {
+          "Id": 3,
+          "Text": "globalne nejednakosti"
+        },
+        {
+          "Id": 4,
+          "Text": "rodne nejednakosti"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 39,
+      "Text": "Promena koja znači kvantitativno uvećanje neke pojave naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni rast"
+        },
+        {
+          "Id": 2,
+          "Text": "društveni razvoj"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni progres"
+        },
+        {
+          "Id": 4,
+          "Text": "relativna stagnacija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 40,
+      "Text": "Kretanje prema idealnom društvenom poretku naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni progres"
+        },
+        {
+          "Id": 2,
+          "Text": "društveni rast"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni razvoj"
+        },
+        {
+          "Id": 4,
+          "Text": "relativna stagnacija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 41,
+      "Text": "Promena koja znači dostizanje složenijeg i savršenijeg stanja neke pojave naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni razvoj"
+        },
+        {
+          "Id": 2,
+          "Text": "društveni progres"
+        },
+        {
+          "Id": 3,
+          "Text": "društveni rast"
+        },
+        {
+          "Id": 4,
+          "Text": "relativna stagnacija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 42,
+      "Text": "Društvene promene pokreće usavršavanje proizvodnih snaga, smatra:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Karl Marks"
+        },
+        {
+          "Id": 2,
+          "Text": "Herbert Spenser"
+        },
+        {
+          "Id": 3,
+          "Text": "Emil Dirkem"
+        },
+        {
+          "Id": 4,
+          "Text": "Ogist Kont"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 43,
+      "Text": "Društvene promene tumače se kao smena faza napredovanja i nazadovanja prema:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "cikličnom stanovištu"
+        },
+        {
+          "Id": 2,
+          "Text": "evolucionističkom stanovištu"
+        },
+        {
+          "Id": 3,
+          "Text": "funkcionalističkom stanovištu"
+        },
+        {
+          "Id": 4,
+          "Text": "formalističkom stanovištu"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 44,
+      "Text": "Demografija je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "nauka o stanovništvu"
+        },
+        {
+          "Id": 2,
+          "Text": "nauka o demonima"
+        },
+        {
+          "Id": 3,
+          "Text": "nauka o grafitima"
+        },
+        {
+          "Id": 4,
+          "Text": "grana defektologije"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 45,
+      "Text": "Skup lica koja žive na određenoj teritoriji naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "država"
+        },
+        {
+          "Id": 2,
+          "Text": "društvo"
+        },
+        {
+          "Id": 3,
+          "Text": "populacija"
+        },
+        {
+          "Id": 4,
+          "Text": "nacija"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 46,
+      "Text": "Mehaničko kretanje stanovništva čine:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "natalitet"
+        },
+        {
+          "Id": 2,
+          "Text": "mortalitet"
+        },
+        {
+          "Id": 3,
+          "Text": "migracije"
+        },
+        {
+          "Id": 4,
+          "Text": "prirodni priraštaj"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 47,
+      "Text": "Prirodno kretanje stanovništva čine:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "natalitet i mortalitet"
+        },
+        {
+          "Id": 2,
+          "Text": "migracije"
+        },
+        {
+          "Id": 3,
+          "Text": "sklapanje braka"
+        },
+        {
+          "Id": 4,
+          "Text": "razvod braka"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 48,
+      "Text": "Broj rođenih na 1 000 stanovnika naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "natalitet"
+        },
+        {
+          "Id": 2,
+          "Text": "mortalitet"
+        },
+        {
+          "Id": 3,
+          "Text": "migracije"
+        },
+        {
+          "Id": 4,
+          "Text": "prirodni priraštaj"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 49,
+      "Text": "Broj umrlih na 1 000 stanovnika naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "natalitet"
+        },
+        {
+          "Id": 2,
+          "Text": "mortalitet"
+        },
+        {
+          "Id": 3,
+          "Text": "migracije"
+        },
+        {
+          "Id": 4,
+          "Text": "prirodni priraštaj"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 50,
+      "Text": "Razlika između nataliteta i mortaliteta naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "prirodni priraštaj"
+        },
+        {
+          "Id": 2,
+          "Text": "razvoj"
+        },
+        {
+          "Id": 3,
+          "Text": "progres"
+        },
+        {
+          "Id": 4,
+          "Text": "relativna stagnacija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 51,
+      "Text": "Imigracija označava:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "odseljavanje"
+        },
+        {
+          "Id": 2,
+          "Text": "doseljavanje"
+        },
+        {
+          "Id": 3,
+          "Text": "broj rođenih"
+        },
+        {
+          "Id": 4,
+          "Text": "broj umrlih"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 52,
+      "Text": "Emigracija je isto što i:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "doseljavanje"
+        },
+        {
+          "Id": 2,
+          "Text": "odseljavanje"
+        },
+        {
+          "Id": 3,
+          "Text": "broj rođenih"
+        },
+        {
+          "Id": 4,
+          "Text": "broj umrlih"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 53,
+      "Text": "Rad u sociološkom smislu je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "stvaranje materijalnih vrednosti"
+        },
+        {
+          "Id": 2,
+          "Text": "odnos čoveka prema prirodi i odnos ljudi međusobno"
+        },
+        {
+          "Id": 3,
+          "Text": "svesna, svrsishodna aktivnost kojom čovek daje upotrebnu vrednost dobrima"
+        },
+        {
+          "Id": 4,
+          "Text": "stvaranje duhovnih vrednosti"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 54,
+      "Text": "Osnovni činioci društvene proizvodnje su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "svojinski odnosi, radna snaga, roba"
+        },
+        {
+          "Id": 2,
+          "Text": "čovek, sredstva za rad, predmeti rada"
+        },
+        {
+          "Id": 3,
+          "Text": "podređeni, nadređeni, proizvodi"
+        },
+        {
+          "Id": 4,
+          "Text": "proizvođači, proizvodni odnosi, potrošači"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 55,
+      "Text": "Mogućnost proizvoda da zadovolji određenu ljudsku potrebu ili želju naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "upotrebna vrednost"
+        },
+        {
+          "Id": 2,
+          "Text": "stvaralačka vrednost"
+        },
+        {
+          "Id": 3,
+          "Text": "vrednost"
+        },
+        {
+          "Id": 4,
+          "Text": "društvena delatnost"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 56,
+      "Text": "Diferenciranje složenog radnog zadatka na jednostavnije elemente rada naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društvena podela rada"
+        },
+        {
+          "Id": 2,
+          "Text": "tehnička podela rada"
+        },
+        {
+          "Id": 3,
+          "Text": "umni rad"
+        },
+        {
+          "Id": 4,
+          "Text": "fizički rad"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 57,
+      "Text": "Institucionalno organizovana celina unutar koje se ostvaruje bilo koji vid radne delatnosti naziva se",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "radna organizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "demokratija"
+        },
+        {
+          "Id": 3,
+          "Text": "birokratija"
+        },
+        {
+          "Id": 4,
+          "Text": "autokratija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 58,
+      "Text": "Kulturni sadržaji koji se u jednoj zajednici prenose s pokolenja na pokolenje čine:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "tradiciju"
+        },
+        {
+          "Id": 2,
+          "Text": "jezik"
+        },
+        {
+          "Id": 3,
+          "Text": "simbole"
+        },
+        {
+          "Id": 4,
+          "Text": "rituale"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 59,
+      "Text": "Dela čija je vrednost opštepriznata čine:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "visoku kulturu"
+        },
+        {
+          "Id": 2,
+          "Text": "narodnu kulturu"
+        },
+        {
+          "Id": 3,
+          "Text": "masovnu kulturu"
+        },
+        {
+          "Id": 4,
+          "Text": "popularnu kulturu"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 60,
+      "Text": "Obrazac ponašanja u oblasti potrošnje, međuljudske interakcije i ličnog izražavanja naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "narodna kultura"
+        },
+        {
+          "Id": 2,
+          "Text": "masovna kultura"
+        },
+        {
+          "Id": 3,
+          "Text": "popularna kultura"
+        },
+        {
+          "Id": 4,
+          "Text": "stil života"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 61,
+      "Text": "Poučna priča o nečemu što se zbilo u značajnoj prošlosti naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "religija"
+        },
+        {
+          "Id": 2,
+          "Text": "magija"
+        },
+        {
+          "Id": 3,
+          "Text": "obred"
+        },
+        {
+          "Id": 4,
+          "Text": "mit"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 62,
+      "Text": "Verovanje u jednog boga poznato je kao:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "monoteizam"
+        },
+        {
+          "Id": 2,
+          "Text": "politeizam"
+        },
+        {
+          "Id": 3,
+          "Text": "ateizam"
+        },
+        {
+          "Id": 4,
+          "Text": "asketizam"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 63,
+      "Text": "Sekta je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "verska zajednica"
+        },
+        {
+          "Id": 2,
+          "Text": "politička zajednica"
+        },
+        {
+          "Id": 3,
+          "Text": "kulturna zajednica"
+        },
+        {
+          "Id": 4,
+          "Text": "ekonomska zajednica"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 64,
+      "Text": "Veština upravljanja društvom naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "politika"
+        },
+        {
+          "Id": 2,
+          "Text": "kultura"
+        },
+        {
+          "Id": 3,
+          "Text": "ekonomija"
+        },
+        {
+          "Id": 4,
+          "Text": "moral"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 65,
+      "Text": "Organizacije koje se bore za osvajanje i vršenje vlasti nazivaju se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društveni pokreti"
+        },
+        {
+          "Id": 2,
+          "Text": "rekreativna društva"
+        },
+        {
+          "Id": 3,
+          "Text": "sportska društva"
+        },
+        {
+          "Id": 4,
+          "Text": "političke stranke"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 66,
+      "Text": "Oblik države u kojoj je vlast doživotna i po pravilu se nasleđuje naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "monarhija"
+        },
+        {
+          "Id": 2,
+          "Text": "republika"
+        },
+        {
+          "Id": 3,
+          "Text": "parlamentarna vlast"
+        },
+        {
+          "Id": 4,
+          "Text": "savetodavno telo"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 67,
+      "Text": "Oblik države gde vlast vrše izabrani predstavnici građana naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "republika"
+        },
+        {
+          "Id": 2,
+          "Text": "monarhija"
+        },
+        {
+          "Id": 3,
+          "Text": "parlamentarna vlast"
+        },
+        {
+          "Id": 4,
+          "Text": "savetodavno telo"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 68,
+      "Text": "Nacije su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "istorijski formirane reproduktivne zajednice"
+        },
+        {
+          "Id": 2,
+          "Text": "istorijski formirane etničke zajednice"
+        },
+        {
+          "Id": 3,
+          "Text": "istorijski formirane interesne zajednice"
+        },
+        {
+          "Id": 4,
+          "Text": "društveno-političke zajednice"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 69,
+      "Text": "Sistem ideja kojim se pravdaju interesi određenih društvenih slojeva naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "teorija"
+        },
+        {
+          "Id": 2,
+          "Text": "empirija"
+        },
+        {
+          "Id": 3,
+          "Text": "praksa"
+        },
+        {
+          "Id": 4,
+          "Text": "ideologija"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 70,
+      "Text": "Ideologija koja se zalaže za što veću slobodu pojedinca u društvu naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "konzervativizam"
+        },
+        {
+          "Id": 2,
+          "Text": "tradicionalizam"
+        },
+        {
+          "Id": 3,
+          "Text": "kapitalizam"
+        },
+        {
+          "Id": 4,
+          "Text": "liberalizam"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 71,
+      "Text": "Ideje jednakosti i solidarnosti u organizovanju društva zastupa:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "socijalizam"
+        },
+        {
+          "Id": 2,
+          "Text": "liberalizam"
+        },
+        {
+          "Id": 3,
+          "Text": "fašizam"
+        },
+        {
+          "Id": 4,
+          "Text": "anarhizam"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 72,
+      "Text": "Uništenju države teže:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "anarhisti"
+        },
+        {
+          "Id": 2,
+          "Text": "socijalisti"
+        },
+        {
+          "Id": 3,
+          "Text": "liberali"
+        },
+        {
+          "Id": 4,
+          "Text": "fašisti"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 73,
+      "Text": "Krajnji nacionalizam i rasizam odlikuju:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "socijalizam"
+        },
+        {
+          "Id": 2,
+          "Text": "liberalizam"
+        },
+        {
+          "Id": 3,
+          "Text": "anarhizam"
+        },
+        {
+          "Id": 4,
+          "Text": "fašizam"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 74,
+      "Text": "Uvođenje deteta u društvenu kulturu naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "personalizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "kultivacija"
+        },
+        {
+          "Id": 3,
+          "Text": "individualizacija"
+        },
+        {
+          "Id": 4,
+          "Text": "društvena kontrola"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 75,
+      "Text": "Proces postepenog povećanja prosečne temperature planete Zemlje naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "globalno zagrevanje"
+        },
+        {
+          "Id": 2,
+          "Text": "održivi razvoj"
+        },
+        {
+          "Id": 3,
+          "Text": "rizično društvo"
+        },
+        {
+          "Id": 4,
+          "Text": "urbanizacija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 76,
+      "Text": "Anomija je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "verovanje u duhove"
+        },
+        {
+          "Id": 2,
+          "Text": "slabljenje društvenih normi"
+        },
+        {
+          "Id": 3,
+          "Text": "jačanje društvenih normi"
+        },
+        {
+          "Id": 4,
+          "Text": "vrsta narkotika"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 77,
+      "Text": "Deagrarizacija je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "napuštanje poljoprivrede"
+        },
+        {
+          "Id": 2,
+          "Text": "smanjena smrtnost stanovništva"
+        },
+        {
+          "Id": 3,
+          "Text": "preseljavanje iz gradova u selo"
+        },
+        {
+          "Id": 4,
+          "Text": "povećanje broja seoskog stanovništv"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 78,
+      "Text": "Širenje industrijske proizvodnje poznato je kao:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "industrijalizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "deindustrijalizacija"
+        },
+        {
+          "Id": 3,
+          "Text": "pacifizam"
+        },
+        {
+          "Id": 4,
+          "Text": "nacionalizam"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 79,
+      "Text": "Shvatanje prema kome su zemlje Evrope superiornije od drugih zemalja naziva se:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "evrocentrizam"
+        },
+        {
+          "Id": 2,
+          "Text": "globalizam"
+        },
+        {
+          "Id": 3,
+          "Text": "imperijalizam"
+        },
+        {
+          "Id": 4,
+          "Text": "nacionalizam"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 80,
+      "Text": "Monogamija je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "brak sa više partnera"
+        },
+        {
+          "Id": 2,
+          "Text": "brak sa jednim partnerom"
+        },
+        {
+          "Id": 3,
+          "Text": "oblik državnog uređenja"
+        },
+        {
+          "Id": 4,
+          "Text": "oblik socijalne patologije"
+        }
+      ],
+      "CorrectAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,1661 @@
+{
+  "Questions": [
+    {
+      "Id": 1,
+      "Text": "Poslovna ekonomija predstavlja skup disciplina ekonomske nauke koje izučavaju,poslovanje:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "globalne privrede"
+        },
+        {
+          "Id": 2,
+          "Text": "preduzeća"
+        },
+        {
+          "Id": 3,
+          "Text": "države"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 2,
+      "Text": "Prema delatnosti, nosioci privređivanja se dele na",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "opšte i pojedinačne"
+        },
+        {
+          "Id": 2,
+          "Text": "proizvodne i potrošačke"
+        },
+        {
+          "Id": 3,
+          "Text": "individualne i grupne"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 3,
+      "Text": "Prema svojini, preduzeća mogu biti",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "proizvodna i neproizvodna"
+        },
+        {
+          "Id": 2,
+          "Text": "proizvodna i uslužna"
+        },
+        {
+          "Id": 3,
+          "Text": "privatna, državna i mešovita"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 4,
+      "Text": "Kako se dele nosioci privređivanja prema broju lica koja obuhvataju",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "na pojedinačne i grupne"
+        },
+        {
+          "Id": 2,
+          "Text": "na proste i složene"
+        },
+        {
+          "Id": 3,
+          "Text": "na interne i eksterne"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 5,
+      "Text": "U zavisnosti od unutrašnje organizacije, nosioci privređivanja se dele na",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "osnovne i složene"
+        },
+        {
+          "Id": 2,
+          "Text": "proizvodne i potrošačke"
+        },
+        {
+          "Id": 3,
+          "Text": "pojedinačne i grupne"
+        },
+        {
+          "Id": 4,
+          "Text": "interne i eksterne"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 6,
+      "Text": "Preduzeće je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "skup srodnika i simpatizera vlasnika, odnosno upravljača"
+        },
+        {
+          "Id": 2,
+          "Text": "osnovni subjekt tržišne privrede"
+        },
+        {
+          "Id": 3,
+          "Text": "državni projekat od nacionalnog značaja"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 7,
+      "Text": "Strukturu preduzeća čine njegovi elementi, i to",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "radni kolektiv, sredstva za proizvodnju, rezultati poslovanja i organizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "uslovi poslovanja i tržišna konkurencija"
+        },
+        {
+          "Id": 3,
+          "Text": "tržište, konkurencija i odlučivanje"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 8,
+      "Text": "Svi sistemi se mogu razvrstati u tri osnovne grupe",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "mali, srednji i veliki"
+        },
+        {
+          "Id": 2,
+          "Text": "državni, privatni i mešoviti"
+        },
+        {
+          "Id": 3,
+          "Text": "prirodni, tehnički i organizacioni"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 9,
+      "Text": "Prema nameni, sredstva se dele na",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "poslovna i posebna"
+        },
+        {
+          "Id": 2,
+          "Text": "sopstvena i tuđa"
+        },
+        {
+          "Id": 3,
+          "Text": "osnovna i obrtna"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 10,
+      "Text": "Sredstva posebne namene su",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "tuđa i sopstvena sredstva"
+        },
+        {
+          "Id": 2,
+          "Text": "osnovna i obrtna sredstva"
+        },
+        {
+          "Id": 3,
+          "Text": "sredstva rezervnog fonda i sredstva zajedničke potrošnje"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 11,
+      "Text": "Izvori sredstava se dele na sopstvena i pozajmljena prema:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "vremenu"
+        },
+        {
+          "Id": 2,
+          "Text": "vlasništvu"
+        },
+        {
+          "Id": 3,
+          "Text": "visini"
+        },
+        {
+          "Id": 3,
+          "Text": "kvalitetu"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 12,
+      "Text": "Osnovni nosilac potrošnje je domaćinstvo, a osnovni nosilac proizvodnje je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "društvo"
+        },
+        {
+          "Id": 2,
+          "Text": "trgovina"
+        },
+        {
+          "Id": 3,
+          "Text": "preduzeće"
+        },
+        {
+          "Id": 4,
+          "Text": "domaćinstvo"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 13,
+      "Text": "Umnožak utrošenih elemenata proizvodnje i cena elemenata proizvodnje po jedinici,utroška su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "prihodi"
+        },
+        {
+          "Id": 2,
+          "Text": "akcije"
+        },
+        {
+          "Id": 3,
+          "Text": "troškovi"
+        },
+        {
+          "Id": 4,
+          "Text": "utrošci"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 14,
+      "Text": "Strukturu preduzeća čine elementi: radni kolektiv, sredstva za proizvodnju, rezultati poslovanja i:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "sredstva za rad"
+        },
+        {
+          "Id": 2,
+          "Text": "organizacija"
+        },
+        {
+          "Id": 3,
+          "Text": "predmeti rada"
+        },
+        {
+          "Id": 4,
+          "Text": "sirovine"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 15,
+      "Text": "Prema mestima njihovog nastanka, troškovi se dele na troškove izrade i:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "režijske troškove"
+        },
+        {
+          "Id": 2,
+          "Text": "fiksne troškove"
+        },
+        {
+          "Id": 3,
+          "Text": "troškove prometa"
+        },
+        {
+          "Id": 4,
+          "Text": "troškove prodaje"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 16,
+      "Text": "Podela preduzeća prema delatnosti je na proizvodna, trgovinska i:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "državna"
+        },
+        {
+          "Id": 2,
+          "Text": "mešovita"
+        },
+        {
+          "Id": 3,
+          "Text": "finansijska"
+        },
+        {
+          "Id": 4,
+          "Text": "privatna"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 17,
+      "Text": "Troškovi koji se menjaju sa promenom obima proizvodnje su",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "indirektni troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "varijabilni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "fiksni troškovi"
+        },
+        {
+          "Id": 4,
+          "Text": "relativno fiksni troškovi"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 18,
+      "Text": "Troškovi koji se u svojoj masi ne menjaju sa promenom obima proizvodnje su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "promenljivi troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "varijabilni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "fiksni troškovi"
+        },
+        {
+          "Id": 4,
+          "Text": "granični troškovi"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 19,
+      "Text": "Prema načinu (metodama) prenošenja na nosioce, troškovi se dele na:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "promenljive i stalne troškove"
+        },
+        {
+          "Id": 2,
+          "Text": "direktne i indirektne troškove"
+        },
+        {
+          "Id": 3,
+          "Text": "interne i eksterne troškove"
+        },
+        {
+          "Id": 4,
+          "Text": "progresivne i degresivne troškove"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 20,
+      "Text": "Akcionarsko društvo predstavlja oblik preduzeća koje kapital neophodan za poslovanje i razvoj pribavlja izdavanjem: ",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "deonica"
+        },
+        {
+          "Id": 2,
+          "Text": "plata"
+        },
+        {
+          "Id": 3,
+          "Text": "kapitala"
+        },
+        {
+          "Id": 4,
+          "Text": "profita"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 21,
+      "Text": "Koeficijent angažovanja sredstava kao odnos sume angažovanih sredstava i vrednosti ostvarene proizvodnje izražava se formulom",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "Ka=S/C"
+        },
+        {
+          "Id": 2,
+          "Text": "Ka=C/S"
+        },
+        {
+          "Id": 3,
+          "Text": "Ka=SxC"
+        },
+        {
+          "Id": 4,
+          "Text": "Ka=S+C"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 22,
+      "Text": "Proizvodnja, raspodela, razmena i potrošnja su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "delatnosti preduzeća"
+        },
+        {
+          "Id": 2,
+          "Text": "delovi preduzeća"
+        },
+        {
+          "Id": 3,
+          "Text": "struktura poslovanja"
+        },
+        {
+          "Id": 4,
+          "Text": "faze reprodukcije"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 23,
+      "Text": "Deo po deo vrednosti sredstava za rad prenosi se na nove proizvode u vidu",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "akumulacije"
+        },
+        {
+          "Id": 2,
+          "Text": "amortizacije"
+        },
+        {
+          "Id": 3,
+          "Text": "investicija"
+        },
+        {
+          "Id": 4,
+          "Text": "reprodukcije"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 24,
+      "Text": "Primarne funkcije preduzeća su upravljanje, rukovođenje i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "izvršenje"
+        },
+        {
+          "Id": 2,
+          "Text": "administriranje"
+        },
+        {
+          "Id": 3,
+          "Text": "izveštavanje"
+        },
+        {
+          "Id": 4,
+          "Text": "odlučivanje"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 25,
+      "Text": "Veličina ukupnog prihoda zavisi od fizičkog obima proizvodnje i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "kvaliteta proizvoda"
+        },
+        {
+          "Id": 2,
+          "Text": "tržišne cene proizvoda"
+        },
+        {
+          "Id": 3,
+          "Text": "strukture proizvoda"
+        },
+        {
+          "Id": 4,
+          "Text": "karakteristika proizvoda"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 26,
+      "Text": "Pojavni oblici sredstava preduzeća su stvari, novac i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "organizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "plan"
+        },
+        {
+          "Id": 3,
+          "Text": "projekat"
+        },
+        {
+          "Id": 4,
+          "Text": "prava"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 27,
+      "Text": "Finansijska razlika između ukupnog prihoda i ukupnog rashoda je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "dobit"
+        },
+        {
+          "Id": 2,
+          "Text": "produktivnost"
+        },
+        {
+          "Id": 3,
+          "Text": "ekonomičnost"
+        },
+        {
+          "Id": 4,
+          "Text": "rentabilnost"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 28,
+      "Text": "Odnos vrednosti ostvarene proizvodnje u toku godine i vrednosti obrtnih sredstava koja su korišćena u tom procesu naziva se",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "koeficijent obrta"
+        },
+        {
+          "Id": 2,
+          "Text": "koeficijent vrednosti"
+        },
+        {
+          "Id": 3,
+          "Text": "koeficijent proizvodnje"
+        },
+        {
+          "Id": 4,
+          "Text": "koeficijent procesa"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 29,
+      "Text": "Troškovi predstavljaju novčani izraz",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "vrednosti robe"
+        },
+        {
+          "Id": 2,
+          "Text": "utrošaka"
+        },
+        {
+          "Id": 3,
+          "Text": "vrednosti društvene proizvodnje"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 30,
+      "Text": "Kako se zovu troškovi koji se menjaju sporije od promena obima proizvodnje",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "direktni troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "degresivni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "relativno fiksni troškovi"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 31,
+      "Text": "U poslovna sredstva spadaju",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "državna sredstva"
+        },
+        {
+          "Id": 2,
+          "Text": "likvidna sredstva"
+        },
+        {
+          "Id": 3,
+          "Text": "osnovna i obrtna sredstva"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 32,
+      "Text": "Pojavni oblici rezultata poslovanja preduzeća su: fizički proizvod, ukupni prihod i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "dobitak (profit)"
+        },
+        {
+          "Id": 2,
+          "Text": "amortizacija"
+        },
+        {
+          "Id": 3,
+          "Text": "akumulacija"
+        },
+        {
+          "Id": 4,
+          "Text": "investicije"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 33,
+      "Text": "Kako se zovu troškovi koji se menjaju brže od promena obima proizvodnje",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "direktni troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "progresivni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "relativno fiksni troškovi"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 34,
+      "Text": "Skladno povezivanje delova u celinu sistema u cilju njegovog uspešnijeg poslovanja je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "produktivnost rada"
+        },
+        {
+          "Id": 2,
+          "Text": "organizacija poslovanja"
+        },
+        {
+          "Id": 3,
+          "Text": "rentabilnost"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 35,
+      "Text": "Skup međusobno povezanih elemenata radi uspešnog funkcionisanja je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "sistem"
+        },
+        {
+          "Id": 2,
+          "Text": "rukovođenje"
+        },
+        {
+          "Id": 3,
+          "Text": "liderstvo"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 36,
+      "Text": "Kao osnovni kriterijumi za razvrstavanje preduzeća koriste se",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "produktivnost i ekonomičnost"
+        },
+        {
+          "Id": 2,
+          "Text": "delatnost, veličina i vlasništvo"
+        },
+        {
+          "Id": 3,
+          "Text": "ekonomičnost i rentabilnost"
+        },
+        {
+          "Id": 4,
+          "Text": "efikasnost i efektivnost"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 37,
+      "Text": "Preduzeća se prema delatnosti dele na",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "proizvodna, trgovinska i finansijska"
+        },
+        {
+          "Id": 2,
+          "Text": "privatna i državna"
+        },
+        {
+          "Id": 3,
+          "Text": "mala, velika i srednja"
+        },
+        {
+          "Id": 4,
+          "Text": "efikasna i neefikasna"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 38,
+      "Text": "Kakva mogu biti proizvodna preduzeća prema karakteru procesa rada",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "privatna i državna"
+        },
+        {
+          "Id": 2,
+          "Text": "industrijska, poljoprivredna i građevinska"
+        },
+        {
+          "Id": 3,
+          "Text": "mala, velika i srednja"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 39,
+      "Text": "U obliku prava, osnovna sredstva mogu biti: patenti, osnivačka ulaganja, potraživanja i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "građevinski objekti"
+        },
+        {
+          "Id": 2,
+          "Text": "oprema"
+        },
+        {
+          "Id": 3,
+          "Text": "zemljište"
+        },
+        {
+          "Id": 4,
+          "Text": "licence"
+        }
+      ],
+      "CorrectAnswer": 4
+    },
+    {
+      "Id": 40,
+      "Text": "Preduzeća se prema veličini dele na",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "mala, srednja i velika"
+        },
+        {
+          "Id": 2,
+          "Text": "privatna i državna"
+        },
+        {
+          "Id": 3,
+          "Text": "lokalna i globalna"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 41,
+      "Text": "Postupak raspoređivanja ukupnih troškova na nosioce naziva se",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "amortizacija"
+        },
+        {
+          "Id": 2,
+          "Text": "kalkulacija – izračunavanje cene koštanja"
+        },
+        {
+          "Id": 3,
+          "Text": "akumulacija"
+        },
+        {
+          "Id": 4,
+          "Text": "reprodukcija"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 42,
+      "Text": "Stalno obnavljanje procesa proizvodnje je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "akumulacija"
+        },
+        {
+          "Id": 2,
+          "Text": "reprodukcija"
+        },
+        {
+          "Id": 3,
+          "Text": "amortizacija"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 43,
+      "Text": "Oblik poslovne organizacije u koju se udružuju dva ili više lica (ortaka, partnera) je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "ortačko društvo"
+        },
+        {
+          "Id": 2,
+          "Text": "oligopol"
+        },
+        {
+          "Id": 3,
+          "Text": "monopol"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 44,
+      "Text": "Vrsta oruđa za rad pomoću kojih se obavljaju pretežno ručne operacije ili kontrola predmeta rada i proizvoda su:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "mašine"
+        },
+        {
+          "Id": 2,
+          "Text": "alati"
+        },
+        {
+          "Id": 3,
+          "Text": "postrojenja"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 45,
+      "Text": "Pravo pronalazača da svoj izum koristi u privredne svrhe je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "licenca"
+        },
+        {
+          "Id": 2,
+          "Text": "patent"
+        },
+        {
+          "Id": 3,
+          "Text": "koncesija"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 46,
+      "Text": "Pravo paralelnog korišćenja tuđeg patenta je:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "licenca"
+        },
+        {
+          "Id": 2,
+          "Text": "patent"
+        },
+        {
+          "Id": 3,
+          "Text": "koncesija"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 47,
+      "Text": "U zavisnosti od promena obima proizvodnje, troškovi se dele na fiksne i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "direktne"
+        },
+        {
+          "Id": 2,
+          "Text": "varijabilne"
+        },
+        {
+          "Id": 3,
+          "Text": "indirektne"
+        },
+        {
+          "Id": 4,
+          "Text": "ukupne"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 48,
+      "Text": "Granični troškovi se drugačije nazivaju",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "marginalni troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "direktni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "relativno fiksni troškovi"
+        },
+        {
+          "Id": 4,
+          "Text": "ukupni troškovi"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 49,
+      "Text": "Sredstva za rad su stvari koje radnik koristi kao oruđe pomoću kojih prenosi delovanje svoga rada na:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "radni kolektiv"
+        },
+        {
+          "Id": 2,
+          "Text": "organizaciju rada"
+        },
+        {
+          "Id": 3,
+          "Text": "predmete rada"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 50,
+      "Text": "Sredstva za proizvodnju obuhvataju sredstva za rad i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "kontrolu"
+        },
+        {
+          "Id": 2,
+          "Text": "predmete rada"
+        },
+        {
+          "Id": 3,
+          "Text": "radni kolektiv"
+        },
+        {
+          "Id": 4,
+          "Text": "organizaciju"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 51,
+      "Text": "Proces donošenja odluka o strateškim ciljevima preduzeća i usmeravanju aktivnosti ka postizanju ciljeva i raspoređivanju rezultata poslovanja je deo funkcije",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "administriranja"
+        },
+        {
+          "Id": 2,
+          "Text": "kontrole"
+        },
+        {
+          "Id": 3,
+          "Text": "upravljanja"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 52,
+      "Text": "Glavni predstavnici finansijskih organizacija su",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "neprofitne organizacije"
+        },
+        {
+          "Id": 2,
+          "Text": "banke"
+        },
+        {
+          "Id": 3,
+          "Text": "trgovinski lanci"
+        },
+        {
+          "Id": 4,
+          "Text": "građevinska preduzeća"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 53,
+      "Text": "Prevođenje upravljačkih odluka u konkretne radne zadatke predstavlja funkciju",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "upravljanja"
+        },
+        {
+          "Id": 2,
+          "Text": "rukovođenja"
+        },
+        {
+          "Id": 3,
+          "Text": "planiranja"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 54,
+      "Text": "Sadržinu funkcije rukovođenja čini",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "prevođenje upravljačkih odluka u konkretne radne zadatke"
+        },
+        {
+          "Id": 2,
+          "Text": "neposredno obavljanje konkretnih radnih zadataka"
+        },
+        {
+          "Id": 3,
+          "Text": "utvrđivanje strateških ciljeva"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 55,
+      "Text": "Prema izvorima pribavljanja, sredstva mogu biti sopstvena i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "obrtna"
+        },
+        {
+          "Id": 2,
+          "Text": "devizna"
+        },
+        {
+          "Id": 3,
+          "Text": "tuđa"
+        },
+        {
+          "Id": 4,
+          "Text": "poslovna"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 56,
+      "Text": "Prema fazama ciklusa reprodukcije u kojima su angažovana, sredstva se dele na sredstva u početnom robnom obliku, sredstva u tehnološkom procesu i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "sredstva u zalihama gotovih proizvoda"
+        },
+        {
+          "Id": 2,
+          "Text": "sopstvena sredstva"
+        },
+        {
+          "Id": 3,
+          "Text": "tuđa sredstva"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 57,
+      "Text": "Trošenjem elemenata proizvodnje u naturalnom vidu nastaju",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "utrošci"
+        },
+        {
+          "Id": 2,
+          "Text": "poreski podsticaji"
+        },
+        {
+          "Id": 3,
+          "Text": "prihodi"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 58,
+      "Text": "Kvantitativno, troškovi predstavljaju umnožak utrošaka elemenata proizvodnje i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "odgovarajućih cena elemenata proizvodnje po jedinici utroška"
+        },
+        {
+          "Id": 2,
+          "Text": "ukupnih prihoda"
+        },
+        {
+          "Id": 3,
+          "Text": "graničnih troškova"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 59,
+      "Text": "Osnovni oblici stvarnog trošenja sredstava za rad su habanje, starenje i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "angažovanje"
+        },
+        {
+          "Id": 2,
+          "Text": "lom i kvar"
+        },
+        {
+          "Id": 3,
+          "Text": "korišćenje"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 60,
+      "Text": "Prosečni fiksni troškovi predstavljaju ukupne fiksne troškove podeljene sa",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "varijabilnim troškovima"
+        },
+        {
+          "Id": 2,
+          "Text": "brojem jedinica proizvoda"
+        },
+        {
+          "Id": 3,
+          "Text": "graničnim troškovima"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 61,
+      "Text": "Troškovi koji se u masi ne menjaju sa promenom obima proizvodnje su",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "varijabilni troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "fiksni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "indirektni troškovi"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 62,
+      "Text": "Troškovi koji se menjaju sa promenom obima proizvodnje su",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "varijabilni troškovi"
+        },
+        {
+          "Id": 2,
+          "Text": "fiksni troškovi"
+        },
+        {
+          "Id": 3,
+          "Text": "direktni troškovi"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 63,
+      "Text": "Prosečni ukupni troškovi po jedinici proizvoda se dobijaju kada se ukupni troškovi podele sa",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "brojem jedinica proizvoda"
+        },
+        {
+          "Id": 2,
+          "Text": "brojem preduzeća"
+        },
+        {
+          "Id": 3,
+          "Text": "brojem organizacionih jedinica"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 64,
+      "Text": "Profit predstavlja razliku između",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "vrednosti izvoza i vrednosti uvoza"
+        },
+        {
+          "Id": 2,
+          "Text": "priliva i odliva stranog kapitala"
+        },
+        {
+          "Id": 3,
+          "Text": "ukupnih prihoda i ukupnih rashoda"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 65,
+      "Text": "Granični ili marginalni troškovi predstavljaju promenu",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "fiksnih troškova po jedinici promene obima proizvodnje"
+        },
+        {
+          "Id": 2,
+          "Text": "ukupnih troškova po jedinici promene obima proizvodnje"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 66,
+      "Text": "Ukupni troškovi predstavljaju zbir ukupnih varijabilnih i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "degresivnih troškova"
+        },
+        {
+          "Id": 2,
+          "Text": "progresivnih troškova"
+        },
+        {
+          "Id": 3,
+          "Text": "ukupnih fiksnih troškova"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 67,
+      "Text": "Ukupni prihod kao oblik rezultata poslovanja je vrednosni, odnosno novčani izraz",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "obima proizvodnje koja je prodata na tržištu"
+        },
+        {
+          "Id": 2,
+          "Text": "sredstava za rad"
+        },
+        {
+          "Id": 3,
+          "Text": "predmeta rada"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 68,
+      "Text": "Koeficijent angažovanja je količnik između sume angažovanih sredstava i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "vrednosti izvoza"
+        },
+        {
+          "Id": 2,
+          "Text": "vrednosti uvoza"
+        },
+        {
+          "Id": 3,
+          "Text": "vrednosti ostvarene proizvodnje"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 69,
+      "Text": "Vreme koje proteče od momenta obezbeđenja novčane sume za nabavku sredstava za proizvodnju i za isplatu zarada, pa sve do ponovne pojave vrednosti u novčanom obliku, predstavlja",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "bruto domaći proizvod"
+        },
+        {
+          "Id": 2,
+          "Text": "ciklus reprodukcije"
+        },
+        {
+          "Id": 3,
+          "Text": "trgovinski bilans"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 70,
+      "Text": "Prosečni varijabilni troškovi predstavljaju",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "ukupne fiksne troškove podeljene s količinom proizvoda"
+        },
+        {
+          "Id": 2,
+          "Text": "ukupne troškove podeljene s količinom proizvoda"
+        },
+        {
+          "Id": 3,
+          "Text": "ukupne varijabilne troškove podeljene s količinom proizvoda"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 71,
+      "Text": "Preduzeće je osnovni nosilac proizvodnje, a domaćinstvo osnovni nosilac",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "akumulacije"
+        },
+        {
+          "Id": 2,
+          "Text": "potrošnje"
+        },
+        {
+          "Id": 3,
+          "Text": "investicija"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 72,
+      "Text": "Osnovni cilj preduzeća je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "sticanje dobiti"
+        },
+        {
+          "Id": 2,
+          "Text": "raspodela sredstava"
+        },
+        {
+          "Id": 3,
+          "Text": "akumulacija kapitala"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 73,
+      "Text": "Nosioci funkcije rukovođenja na različitim hijerarhijskim nivoima su",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "akcionari"
+        },
+        {
+          "Id": 2,
+          "Text": "izvršioci"
+        },
+        {
+          "Id": 3,
+          "Text": "rukovodioci"
+        }
+      ],
+      "CorrectAnswer": 3
+    },
+    {
+      "Id": 74,
+      "Text": "Vrste obrtnih sredstava su stvari, prava i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "zgrade"
+        },
+        {
+          "Id": 2,
+          "Text": "novčana sredstva"
+        },
+        {
+          "Id": 3,
+          "Text": "oprema"
+        },
+        {
+          "Id": 4,
+          "Text": "mašine"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 75,
+      "Text": "Dobitak kao rezultat poslovanja preduzeća postoji samo ako je",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "ukupni prihod manji od ukupnog rashoda"
+        },
+        {
+          "Id": 2,
+          "Text": "ukupni prihod veći od ukupnog rashoda"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 76,
+      "Text": "Troškovi materijala obuhvataju troškove osnovnog materijala, pomoćnog materijala, energije i:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "režijskog materijala"
+        },
+        {
+          "Id": 2,
+          "Text": "zakupnine"
+        },
+        {
+          "Id": 3,
+          "Text": "kamata"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 77,
+      "Text": "Zahtev da se ostvari što veći fizički obim proizvodnje sa što manjim utrošcima radne snage, predstavlja princip: ",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "produktivnosti"
+        },
+        {
+          "Id": 2,
+          "Text": "ekonomičnosti"
+        },
+        {
+          "Id": 3,
+          "Text": "rentabilnosti"
+        }
+      ],
+      "CorrectAnswer": 1
+    },
+    {
+      "Id": 78,
+      "Text": "Parcijalni ekonomski principi poslovanja su princip produktivnosti, princip ekonomičnosti i",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "princip konkurentnosti"
+        },
+        {
+          "Id": 2,
+          "Text": "princip rentabilnosti"
+        },
+        {
+          "Id": 3,
+          "Text": "princip profitabilnosti"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 79,
+      "Text": "Zahtev da se ostvari što veća vrednost, odnosno ukupni prihod sa što manjim troškovima elemenata proizvodnje, predstavlja princip:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "produktivnosti"
+        },
+        {
+          "Id": 2,
+          "Text": "ekonomičnosti"
+        },
+        {
+          "Id": 3,
+          "Text": "rentabilnosti"
+        }
+      ],
+      "CorrectAnswer": 2
+    },
+    {
+      "Id": 80,
+      "Text": "Zahtev da se ostvari što veći dobitak sa što manje angažovanih sredstava, predstavlja princip:",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": "produktivnosti"
+        },
+        {
+          "Id": 2,
+          "Text": "ekonomičnosti"
+        },
+        {
+          "Id": 3,
+          "Text": "rentabilnosti"
+        }
+      ],
+      "CorrectAnswer": 3
+    }
+  ]
+}
+/*
+    {
+      "Id": ,
+      "Text": "",
+      "Answers": [
+        {
+          "Id": 1,
+          "Text": ""
+        },
+        {
+          "Id": 2,
+          "Text": ""
+        },
+        {
+          "Id": 3,
+          "Text": ""
+        },
+        {
+          "Id": 4,
+          "Text": ""
+        }
+      ],
+      "CorrectAnswer": 
+    }
+*/
