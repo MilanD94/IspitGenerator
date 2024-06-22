@@ -5,13 +5,13 @@ bool repeatExam = true;
 while (repeatExam)
 {
     Console.Clear();
-    string testName = SelectExam();
+    string examName = SelectExam();
 
-    var selectedQuestions = GetQuestions(testName);
+    var selectedQuestions = GetQuestions(examName);
 
     var userAnswers = RunExam(selectedQuestions);
 
-    ProcessAnswers(userAnswers);
+    ShowExamResults(userAnswers);
 
     Console.WriteLine("\nPritisni 1 da odes na pocetak.");
     Console.WriteLine("\nPritisni bilo koji drugi taster da ugasis program.");
@@ -20,6 +20,28 @@ while (repeatExam)
     {
         repeatExam = false;
     }
+}
+
+static string SelectExam()
+{
+    Console.WriteLine("Odaberi test koji zelis da radis:");
+    Console.WriteLine("1. Poslovna Ekonomija");
+    Console.WriteLine("2. Sociologija");
+    int selectedTest = int.Parse(Console.ReadKey().KeyChar.ToString());
+    string examName = string.Empty;
+    switch (selectedTest)
+    {
+        case 1:
+            examName = "PoslovnaEkonomija";
+            break;
+        case 2:
+            examName = "Sociologija";
+            break;
+        default:
+            break;
+    }
+
+    return examName;
 }
 
 static List<ExamQuestion> GetQuestions(string testName)
@@ -34,6 +56,11 @@ static List<ExamQuestion> GetQuestions(string testName)
     List<ExamQuestion> selectedQuestions = allQuestions.Questions
         .OrderBy(x => random.Next())
         .Take(20)
+        .Select(q =>
+        {
+            q.Answers = [.. q.Answers.OrderBy(a => random.Next())];
+            return q;
+        })
         .ToList();
 
     return selectedQuestions;
@@ -46,31 +73,47 @@ static Answers RunExam(List<ExamQuestion> selectedQuestions)
 
     for (int i = 0; i < numberOfQuestions; i++)
     {
-        var question = selectedQuestions[i];
-        Console.Clear();
-        Console.WriteLine("Pitanje broj {0} od {1}", i + 1, numberOfQuestions);
-        Console.WriteLine("Redni broj pitanja u zbirci: {0}\n", question.Id);
-        Console.WriteLine(question.Text);
-        foreach (var answer in question.Answers)
-        {
-            Console.WriteLine($"{answer.Id}. {answer.Text}");
-        }
+        //SETS THE QUESTION
+        ExamQuestion question = SetQuestion(selectedQuestions, numberOfQuestions, i);
 
-        int userAnswer = int.Parse(Console.ReadKey().KeyChar.ToString());
-        if (userAnswer != question.CorrectAnswer)
-        {
-            userAnswers.IncorrectAnswers.Add((question, userAnswer));
-        }
-        else
-        {
-            userAnswers.CorrectAnswers.Add((question, userAnswer));
-        }
+        //HANDLES ANSWER
+        HandleAnswer(userAnswers, question);
     }
 
     return userAnswers;
 }
 
-static void ProcessAnswers(Answers userAnswers)
+static ExamQuestion SetQuestion(List<ExamQuestion> selectedQuestions, int numberOfQuestions, int i)
+{
+    var question = selectedQuestions[i];
+    Console.Clear();
+    Console.WriteLine("Pitanje broj {0} od {1}", i + 1, numberOfQuestions);
+    Console.WriteLine("Redni broj pitanja u zbirci: {0}\n", question.Id);
+    Console.WriteLine(question.Text);
+    for (int j = 0; j < question.Answers.Count; j++)
+    {
+        Console.WriteLine($"{j + 1}. {question.Answers[j].Text}");
+    }
+
+    return question;
+}
+
+static void HandleAnswer(Answers userAnswers, ExamQuestion question)
+{
+    int userAnswer = int.Parse(Console.ReadKey().KeyChar.ToString());
+    var parsedAnswer = question.Answers[userAnswer - 1].Id;
+
+    if (parsedAnswer != question.CorrectAnswer)
+    {
+        userAnswers.IncorrectAnswers.Add((question, parsedAnswer));
+    }
+    else
+    {
+        userAnswers.CorrectAnswers.Add((question, parsedAnswer));
+    }
+}
+
+static void ShowExamResults(Answers userAnswers)
 {
     if (userAnswers.IncorrectAnswers.Count == 0)
     {
@@ -99,26 +142,4 @@ static void ProcessAnswers(Answers userAnswers)
             Console.WriteLine($"Tacan odgovor: {question.Answers.First(a => a.Id == question.CorrectAnswer).Text}");
         }
     }
-}
-
-static string SelectExam()
-{
-    Console.WriteLine("Odaberi test koji zelis da radis:");
-    Console.WriteLine("1. Poslovna Ekonomija");
-    Console.WriteLine("2. Sociologija");
-    int selectedTest = int.Parse(Console.ReadKey().KeyChar.ToString());
-    string testName = string.Empty;
-    switch (selectedTest)
-    {
-        case 1:
-            testName = "PoslovnaEkonomija";
-            break;
-        case 2:
-            testName = "Sociologija";
-            break;
-        default:
-            break;
-    }
-
-    return testName;
 }
