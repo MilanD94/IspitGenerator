@@ -47,6 +47,8 @@ static string SelectExam()
 static List<ExamQuestion> GetQuestions(string testName)
 {
     Console.Clear();
+    Console.WriteLine("Koliko pitanja zelis da imas na testu?");
+    var questionsAmount = int.Parse(Console.ReadLine().ToString());
     string jsonFilePath = $"{testName}.json";
 
     string jsonData = File.ReadAllText(jsonFilePath);
@@ -55,7 +57,7 @@ static List<ExamQuestion> GetQuestions(string testName)
     Random random = new Random();
     List<ExamQuestion> selectedQuestions = allQuestions.Questions
         .OrderBy(x => random.Next())
-        .Take(20)
+        .Take(questionsAmount)
         .Select(q =>
         {
             q.Answers = [.. q.Answers.OrderBy(a => random.Next())];
